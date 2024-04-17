@@ -1,0 +1,1 @@
+int defaultStatusCode = 500;
